@@ -68,7 +68,7 @@ echo 'answer-5:' $ans5
 
 # 6. Use one or more BEDtools that we haven't covered in class. Be creative.
 
-echo 'answer-6:' 'in progress'
+echo 'answer-6:' 'See jac_stat.sh file'
 
 
 
